@@ -1,3 +1,7 @@
 <?php
 
-echo "Olá Mundo!!";
+echo "Olá Mundo!! \n";
+
+$idade = 21;
+
+echo "Minha idade é: " , $idade;
