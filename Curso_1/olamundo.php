@@ -1,6 +1,6 @@
 <?php
 
-echo "Olá Mundo!! \n";
+echo "Olá Mundo!!" . PHP_EOL;
 
 $idade = 21;
 
